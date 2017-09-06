@@ -6,6 +6,8 @@ Capital gains are not double taxed because the corporate tax rate is built into 
 
 The only individuals that might be double taxed are those that create the company (i need to check the math and tax law here). However, they receive the benefit of reduced liability. All transfers of money are taxed. That is how we make taxes fair. Creating an entity to pass money through doubles the number of transfers and thus should be taxed doubly. The reward is limited liability. If the cost of double taxation is too much then an individual need not create a corporation. If they decide the double taxation is a price they are willing to pay then it is fair. 
 
+Regular payroll is double taxed in the same manner as capital gains. Payroll is paid and then the employee must pay a percentage of that. Without corporate taxation, the work would be more valuable and thus incomes higher. So the incidence of two taxes (along with sales taxes and every other transfer) fall at least partially on regular income. Simlarly capital gains for creating a successful corporation can be seen in the same light.
+
 A higher capital gains rate means that losses receive a higher tax deduction. Thus risky investments maintain their valued status.
 
 A progressive tax on capital gains will reward the middle class investors. Smart money will very slowly catch up to dumb money if the tax rates are equivalent. 
